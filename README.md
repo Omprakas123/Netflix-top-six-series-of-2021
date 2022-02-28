@@ -1,4 +1,4 @@
- ### .Welcome to the Netflix-top-six-series-of-2021|
+ ### .Welcome to the Netflix-top-six-series-of-2022|
 
 This is a Netflix top six Series of 2021 , The webpage interface of this list of series is design By Javascript library React js and css when people will open this webpage  link he will get some  facility to choose any of  the series out of six and he could watch directly after  clicking on watch button
 
