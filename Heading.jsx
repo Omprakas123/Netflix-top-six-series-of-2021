@@ -26,9 +26,5 @@ function Card(props)
 </>
     );
 }
-const fun = ()=>{
-       let vg="name is :+1 "
-       
-}
 
 export default Card;
