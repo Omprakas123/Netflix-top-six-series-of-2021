@@ -23,6 +23,12 @@ just click on the  link http://localhost:3000/
 in your Browser 
 
 Screenshots:-
+![image](https://user-images.githubusercontent.com/100309892/156055399-93568731-991d-44ec-b3ed-2af5c4c60992.png)
+***
+![image](https://user-images.githubusercontent.com/100309892/156055584-7935928d-6df2-42ef-b26e-51786a060dbb.png)
+***
+![image](https://user-images.githubusercontent.com/100309892/156055749-1cde165b-e02b-47dc-88cf-a298801d404f.png)
+
 
 ### Author
 Omprakash kumar
