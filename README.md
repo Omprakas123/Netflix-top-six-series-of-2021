@@ -22,5 +22,12 @@ This is a Netflix top six Series of 2021 , The webpage interface of this list of
 just click on the  link http://localhost:3000/
 in your Browser 
 
-### screenshoots
+Screenshots:-
+
+### Author
+Omprakash kumar
+
+Email: Omprakashkumar07421@gmail.com
+
+=======THANK YOU
 > > 
