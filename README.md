@@ -19,7 +19,8 @@ This is a Netflix top six Series of 2021 , The webpage interface of this list of
 .write hole code on the vs code editor and run it,
 ***
  you can also open this series without using any command 
-just click on the given link in your Browser 
+just click on the  link http://localhost:3000/
+in your Browser 
 
 ### screenshoots
 > > 
